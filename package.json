@@ -1,0 +1,25 @@
+{
+  "name": "kata-01-el-juego-de-la-vida-iteracion-03-k1d3-m22-t2-reactive-02",
+  "version": "1.0.0",
+  "description": "![BrightCoders Logo](img/logo-bc.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-iteracion-03-k1d3-m22-t2-reactive-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-iteracion-03-k1d3-m22-t2-reactive-02/issues"
+  },
+  "homepage": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-iteracion-03-k1d3-m22-t2-reactive-02#readme",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "jest": "^28.0.3",
+    "prettier": "^2.6.2"
+  }
+}
